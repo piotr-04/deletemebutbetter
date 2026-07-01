@@ -1,0 +1,1 @@
+print("Inject the world with poison")
